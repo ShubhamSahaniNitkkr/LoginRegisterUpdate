@@ -1,0 +1,73 @@
+body
+{
+   background-image: url('../images/2.jpg');
+   padding-top:150px;
+   font-family: 'Roboto', sans-serif;
+}
+
+.loginPanel{
+  background: white;
+  height: 390px;
+  border:5px solid #3F51B5;
+  box-shadow: 1px 1px 538px 1px #3F51B5;
+
+}
+
+.loginPanel_Left{
+  background: #3F51B5;
+  color: white;
+  height: 380px;
+  padding: 50px;
+
+}
+
+.loginPanel_Left .image{
+  box-shadow: 1px 1px 74px 11px black;
+  width: 170px;
+  height: 170px;
+}
+
+.loginPanel_Right{
+  background-color:white;
+  height: 380px;
+  padding: 40px;
+  color:#3F51B5;
+
+}
+
+.loginPanel a{
+  font-size: 18px;
+  color: #3f51b5;
+}
+
+.loginPanel a:hover{
+  font-size: 18px;
+  text-decoration: none;
+}
+
+.loginPanel .form-control{
+  border-radius: 1px;
+  border: none;
+  border-bottom: 2px solid #3F51B5;
+  box-shadow: none;
+  padding: 0;
+
+}
+
+.loginPanel .login_Button{
+  border-radius:1px;
+  background-color:#3F51B5;
+}
+
+.loginPanel .fa
+{
+  font-size: 30px;
+}
+a:hover{
+  text-decoration: none;
+}
+
+.loginPanel .fa:hover
+{
+  font-size: 30px;
+}
